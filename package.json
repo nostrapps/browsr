@@ -1,0 +1,29 @@
+{
+  "name": "browsr",
+  "version": "0.0.0",
+  "description": "browsr",
+  "main": "main.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nostrapps/browsr.git"
+  },
+  "keywords": [
+    "nostr",
+    "browsr",
+    "app"
+  ],
+  "author": "Melvin Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nostrapps/browsr/issues"
+  },
+  "homepage": "https://github.com/nostrapps/browsr#readme",
+  "dependencies": {
+    "electron": "^24.2.0"
+  }
+}
